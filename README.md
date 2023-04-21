@@ -1,2 +1,2 @@
 # kaba
-index 
+[Index](index.com)
